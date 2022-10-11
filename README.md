@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vu (vu.nguyen)</h1>
-<h3 align="center">A passionate Fullstack developer from VietNam. I'd like to update new technology like NestJS, React, NextJS, Golang, Solidity,... I can challenge to learn new things quickly. Currently, I switch to Blockchain Dapp. My next short term path to become an expert Blockchain Developer aside to with BE developer (Typescript Framework, Golang) and slightly glance to FE framework</h3>
+<h3 align="center">A passionate Fullstack developer from VietNam. I'd like to update new technology like Golang, NestJS, React, NextJS, Solidity, DevOps,... I can challenge to learn new things quickly. Currently, I switch to DevOps. My next short term path to become an DevOps aside to with BE developer (NodeJS, Typescript, Golang) and slightly glance to FE framework</h3>
 
-- 🔭 I’m currently working on [Kompa Group](https://kompa.ai)
+- 🔭 I’m currently working on [Sendo](https://www.sendo.vn)
 
 - 📝 I'm currently writing **Solidity code, Dapp Blockchain**
 
 - 🤝 I’m a volunteer contributing to the [HelpMe! Project](https://www.giuptoi.vn)
 
-- 🌱 I’m currently learning **NestJS, Golang, Solidity, Dapp, Algorithm**
+- 🌱 I’m currently learning **NestJS, Solidity, Dapp, Algorithm**
+
+- 🌱 I’m currently learning **Aws, DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
