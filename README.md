@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vu (vu.nguyen)</h1>
-<h3 align="center">A passionate Fullstack developer from VietNam. I'd like to update new technology like Golang, NestJS, React, NextJS, Solidity, DevOps,... I can challenge to learn new things quickly. Currently, I switch to DevOps. My next short term path to become an DevOps aside to with BE developer (NodeJS, Typescript, Golang) and slightly glance to FE framework</h3>
+<h2 align="center">I'm pursuing the Technical Leader pathway</h2>
+<h3 align="center">A passionate Fullstack developer from VietNam. I'd like to update new technology like Golang, NestJS, React, NextJS, Solidity, DevOps,... I can challenge to learn new things quickly. Currently, I switch to DevOps. My next short term path to become a DevOps aside to with BE developer (NodeJS, Typescript, Golang) and slightly glance to FE framework</h3>
 
 - 🔭 I’m currently working on [Sendo](https://www.sendo.vn)
 
